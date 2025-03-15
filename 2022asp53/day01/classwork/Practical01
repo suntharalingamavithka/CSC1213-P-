@@ -1,0 +1,13 @@
+Date: 12.03.2025
+Practical Number: 01
+Implementation: class ex01{
+    public static void main(String[] args)
+        {
+            System.out.println(" My first programme in java ");
+            System.out.println(" Hello java Developers!!! ");
+        }
+    }
+Output:  My first programme in java
+         Hello java Developers!!!
+
+Coclusion: I learnt how to get output in java.
