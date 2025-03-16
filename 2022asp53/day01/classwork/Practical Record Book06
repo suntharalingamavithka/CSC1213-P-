@@ -2,6 +2,8 @@ Date: 12.03.2025
 
 Practical Number: 06
 
+problem specification: Typecasting in java programming.
+
 Implementation:  class ex06{
       public static void main(String[] args)
 	  {
@@ -21,6 +23,7 @@ Implementation:  class ex06{
 		System.out.println("The value is: "+d2);
 	  }
 		      }
+
 Output: 
 The character is: g
 
@@ -31,5 +34,6 @@ The value is: 10.08
 The value is: 10
 
 The value is: 103.0
+
 
 Conclusion: I have learnt the program in java to typecasting.
