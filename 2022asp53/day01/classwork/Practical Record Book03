@@ -1,5 +1,9 @@
 Date: 12.03.2025
+
 Practical Name: 03
+
+problem specification: how to declare and initialize 
+
 Implementation:    class ex03{
 		 public static void main(String[] args)
 		 {
@@ -25,6 +29,7 @@ Implementation:    class ex03{
 		 System.out.println(" char2: "+charval2);
 		 }
 		 }
+
 
 Output:   
  Boolean: true
