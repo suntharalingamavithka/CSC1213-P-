@@ -2,7 +2,7 @@ Date: 12.03.2025
 
 Practical Number: 04
 
-problem specification: how to used Stting in java program. 
+problem specification: how to used String in java program. 
 
 Implementation:  class ex04{
       public static void main(String[] args)
