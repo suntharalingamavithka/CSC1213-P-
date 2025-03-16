@@ -2,6 +2,8 @@ Date:12.03.2025
 
 Practical Number:08
 
+problem specification: How use the operators in java programming.
+
 Implementation:  class work01{
      public static void main(String[] args)
 	 {
@@ -57,6 +59,7 @@ Implementation:  class work01{
 	 }
 }
 
+
 Output: 
 Assignment operation:
 
@@ -87,5 +90,6 @@ false
 Teranary operation:
 
 correct
+
 
 Coclusion: I have learnt the program in java to use the operation. 
