@@ -2,7 +2,7 @@ Date:12.03.2025
 
 Practical Number:08
 
-problem specification: How use the operators in java programming.
+problem specification: How to use the operators in java programming.
 
 Implementation:  class work01{
      public static void main(String[] args)
