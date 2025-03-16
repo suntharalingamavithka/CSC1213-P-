@@ -1,5 +1,9 @@
 Date: 12.03.2025
+
 Practical Number: 04
+
+problem specification: how to used Stting in java program. 
+
 Implementation:  class ex04{
       public static void main(String[] args)
 	  {
@@ -19,6 +23,7 @@ Implementation:  class ex04{
 		}
 		}
 
+
 Output: 
  Name: Suntharalaingam Avithka
  Registration Number: 2022/ASP/53
@@ -27,5 +32,6 @@ Output:
  Full Name: Suntharalingam Avithka
  Registration Number: 2022/ASP/53
  Degree Program: Undergraduate
+
 
 Coclusion: I have learnt the program in java to print String Data type.
