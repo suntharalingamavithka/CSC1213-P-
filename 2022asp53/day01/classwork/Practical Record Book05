@@ -2,6 +2,8 @@ Date: 12.03.2025
 
 Practical Number: 05
 
+problem specification: how to reduce the code lines in java.
+
 Implementation:  class ex05{
 	  public static void main(String[] args)
 	  {
@@ -9,6 +11,7 @@ Implementation:  class ex05{
       
 	  }
               }	
+
 Output: 
 First Name: Avithka
 Last Name: Suntharalingam
