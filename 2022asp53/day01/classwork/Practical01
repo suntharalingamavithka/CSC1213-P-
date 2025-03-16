@@ -2,7 +2,7 @@ Date: 12.03.2025
 
 Practical Number: 01
 
-problem specification: print "My first programme in java " and "Hello java Developers!!!.
+problem specification:  How to print "My first programme in java " and "Hello java Developers!!!.
 
 Implementation: class ex01{
     public static void main(String[] args)
